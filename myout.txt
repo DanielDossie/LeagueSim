@@ -1,0 +1,13 @@
+
+Enter a command: 
+Choose from 
+   Team <location> <team-nickname>
+   Player <firstname> <lastname> <number> [<team-nickname>]
+   League
+   Roster [<team-nickname>]
+   Release <lastname> <team-nickname>
+   Sign <lastname> <team-nickname>
+   Career <lastname>
+   Trade
+   Quit
+: 
